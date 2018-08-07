@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/7/20 14:49:10。
+     1>项目“D:\wxb\QtXlsx_chart\chart1\chart1\chart1.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing chart1.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtXlsx /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chart1.cpp GeneratedFiles\Debug\moc_chart1.cpp main.cpp
+         chart1.cpp
+         moc_chart1.cpp
+         main.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtXlsx /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_chart1.cpp
+         qrc_chart1.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\wxb\QtXlsx_chart\chart1\Win32\Debug\\chart1.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib Qt5Xlsxd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\wxb\QtXlsx_chart\chart1\Win32\Debug\chart1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\wxb\QtXlsx_chart\chart1\Win32\Debug\chart1.lib" /MACHINE:X86 /SAFESEH Debug\chart1.obj
+         Debug\moc_chart1.obj
+         Debug\qrc_chart1.obj
+         Debug\main.obj
+         chart1.vcxproj -> D:\wxb\QtXlsx_chart\chart1\Win32\Debug\chart1.exe
+     1>已完成生成项目“D:\wxb\QtXlsx_chart\chart1\chart1\chart1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.95

@@ -1,0 +1,2 @@
+﻿flyedit.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static char const * const QSqlDatabase::defaultConnection" (__imp_?defaultConnection@QSqlDatabase@@2PBDB)
+E:\王雪冰\工作\项目相关\[06]飞行包解析、编辑与显示\wxb\飞行包编辑_V0.0.1.180726_Alpha\FlyEdit4_createSQLiteTablesFromExcel\Win32\Debug\\FlyEdit.exe : fatal error LNK1120: 1 unresolved externals
