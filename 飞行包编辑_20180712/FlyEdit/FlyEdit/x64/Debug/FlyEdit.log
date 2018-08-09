@@ -1,1 +1,13 @@
-﻿
+﻿  Moc'ing flyedit.h...
+  Uic'ing flyedit.ui...
+  Rcc'ing flyedit.qrc...
+RCC : warning : No resources in 'E:\鐜嬮洩鍐癨宸ヤ綔\椤圭洰鐩稿叧\since201807_code_wxb_FeiXingBao\椋炶鍖呯紪杈慱20180712\FlyEdit\FlyEdit\flyedit.qrc'.
+  
+  flyedit.cpp
+  moc_flyedit.cpp
+  main.cpp
+  Generating Code...
+  qrc_flyedit.cpp
+  LINK : E:\王雪冰\工作\项目相关\since201807_code_wxb_FeiXingBao\飞行包编辑_20180712\FlyEdit\x64\Debug\\FlyEdit.exe not found or not built by the last incremental link; performing full link
+  FlyEdit.vcxproj -> E:\王雪冰\工作\项目相关\since201807_code_wxb_FeiXingBao\飞行包编辑_20180712\FlyEdit\x64\Debug\FlyEdit.exe
+  FlyEdit.vcxproj -> E:\王雪冰\工作\项目相关\since201807_code_wxb_FeiXingBao\飞行包编辑_20180712\FlyEdit\x64\Debug\FlyEdit.pdb (Full PDB)
